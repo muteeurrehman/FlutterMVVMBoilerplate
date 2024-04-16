@@ -1,0 +1,6 @@
+framework module shared_preference_app_group {
+  umbrella header "shared_preference_app_group-umbrella.h"
+
+  export *
+  module * { export * }
+}
